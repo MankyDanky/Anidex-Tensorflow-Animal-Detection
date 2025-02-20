@@ -13,4 +13,5 @@ To run the app you must:
 4. Run the backend and then using ngrok to redirect to it from an https URL. Put this URL in index.tsx where it says "SERVER_ADDRESS_HERE".
 
 ## Demo
-https://www.youtube.com/shorts/qvL6sRvyTp0
+https://github.com/user-attachments/assets/13aeb72e-cf4a-4d05-aa24-1b4ec77d60b1
+
