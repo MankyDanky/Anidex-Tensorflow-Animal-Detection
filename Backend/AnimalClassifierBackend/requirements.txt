@@ -1,0 +1,11 @@
+Django==5.1.6
+django-cors-headers==4.7.0
+djangorestframework==3.15.2
+keras==3.8.0
+matplotlib==3.9.2
+selenium==4.28.1
+setuptools==75.1.0
+sqlparse==0.5.3
+tensorflow-cpu==2.18.0
+gunicorn
+django_heroku
